@@ -1,0 +1,1189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PC_DESKTOP_ASSIGNMENTASP_SILICON1_INFRASTRUCTURE_DATA_LOCAL_DATABASE.MDF/True/SqlTable/dbo.Subscribers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\controllers\\sitesettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\controllers\\sitesettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\contactrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\contactrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\shared\\_cookieconsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\shared\\_cookieconsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_worktools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_worktools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_switchmode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_switchmode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_showcase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_showcase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_newsletters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_newsletters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_managework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_managework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\partials\\sections\\_download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\partials\\sections\\_download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\courses\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\courses\\coursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\account\\accountsecurity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\account\\accountsecurity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\views\\account\\_accountprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\views\\account\\_accountprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\utilities\\htmlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\utilities\\htmlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\subscribeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\subscribeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\serviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\serviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\programdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\programdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\coursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\coursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\coursedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\coursedetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\contactresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\contactresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\models\\accountdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\models\\accountdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\silicon1\\filters\\checkboxvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C603DF-7FD3-434C-9626-88F3D3699D94}|Silicon1\\Silicon1.csproj|solutionrelative:silicon1\\filters\\checkboxvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\subscribeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\subscribeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\courseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\courseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\accountsecurityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\accountsecurityinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\accountbasicinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\accountbasicinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\models\\accountadressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\accountadressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\factories\\subscribefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\factories\\subscribefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\entities\\subscriberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\subscriberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\entities\\contactrequestentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\contactrequestentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\desktop\\assignmentasp\\silicon1\\infrastructure\\migrations\\20240528153028_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E5B519-7154-49C8-99A0-2BDFC520B310}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240528153028_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Subscribers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PC_DESKTOP_ASSIGNMENTASP_SILICON1_INFRASTRUCTURE_DATA_LOCAL_DATABASE.MDF/True/SqlTable/dbo.Subscribers.sql",
+              "ToolTip": "dbo.Subscribers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T16:46:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_forms.scss",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeDocumentMoniker": "Silicon1\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeToolTip": "Silicon1\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-05-28T16:02:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Silicon1\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:39:20.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Silicon1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:39:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiteSettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\SiteSettingsController.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Controllers\\SiteSettingsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\SiteSettingsController.cs",
+              "RelativeToolTip": "Silicon1\\Controllers\\SiteSettingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:39:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Silicon1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:38:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Silicon1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:39:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240528153028_all.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Migrations\\20240528153028_all.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240528153028_all.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Migrations\\20240528153028_all.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240528153028_all.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\appsettings.json",
+              "RelativeDocumentMoniker": "Silicon1\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\appsettings.json",
+              "RelativeToolTip": "Silicon1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T15:17:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactRequestViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ContactRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactRequestViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ContactRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:41:06.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Program.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Program.cs",
+              "RelativeToolTip": "Silicon1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:58:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AccountService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:53:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Silicon1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\appsettings.Development.json",
+              "RelativeToolTip": "Silicon1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T15:17:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Silicon1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T15:16:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:14:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:15:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:15:19.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_CookieConsent.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_CookieConsent.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Shared\\_CookieConsent.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Shared\\_CookieConsent.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Shared\\_CookieConsent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:53:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Worktools.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:52:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Switchmode.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:52:31.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Showcase.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:52:16.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Newsletters.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Newsletters.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Newsletters.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Newsletters.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Newsletters.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:52:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Managework.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:51:51.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:51:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:51:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Features.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:51:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Download.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:50:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:10:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T15:10:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CourseDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Courses\\CourseDetails.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Courses\\CourseDetails.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Courses\\CourseDetails.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Courses\\CourseDetails.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwJUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:48:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwG4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:48:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:47:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:47:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:47:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Account\\Details.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwF0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:46:37.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountSecurity.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\AccountSecurity.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Account\\AccountSecurity.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\AccountSecurity.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Account\\AccountSecurity.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:46:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_AccountProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\_AccountProfile.cshtml",
+              "RelativeDocumentMoniker": "Silicon1\\Views\\Account\\_AccountProfile.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Views\\Account\\_AccountProfile.cshtml",
+              "RelativeToolTip": "Silicon1\\Views\\Account\\_AccountProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T14:46:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HtmlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Utilities\\HtmlExtensions.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Utilities\\HtmlExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Utilities\\HtmlExtensions.cs",
+              "RelativeToolTip": "Silicon1\\Utilities\\HtmlExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:55:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubscribeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SubscribeViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\SubscribeViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SubscribeViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\SubscribeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:43:26.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:43:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\SignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:43:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ServiceViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ServiceViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ServiceViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ServiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:42:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\Service.cs",
+              "RelativeToolTip": "Silicon1\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:42:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProgramDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ProgramDetailModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ProgramDetailModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ProgramDetailModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ProgramDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:42:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:41:57.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CoursesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\CoursesViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\CoursesViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\CoursesViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\CoursesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:41:44.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\CourseDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\CourseDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\CourseDetailViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\CourseDetailViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:41:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ContactResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactResult.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ContactResult.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactResult.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ContactResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:41:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ContactRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactRequest.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\ContactRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\ContactRequest.cs",
+              "RelativeToolTip": "Silicon1\\Models\\ContactRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:40:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AccountDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\AccountDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Models\\AccountDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Models\\AccountDetailsViewModel.cs",
+              "RelativeToolTip": "Silicon1\\Models\\AccountDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:40:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CheckBoxValidation.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Filters\\CheckBoxValidation.cs",
+              "RelativeDocumentMoniker": "Silicon1\\Filters\\CheckBoxValidation.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Silicon1\\Filters\\CheckBoxValidation.cs",
+              "RelativeToolTip": "Silicon1\\Filters\\CheckBoxValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:04:30.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\User.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SubscribeForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\SubscribeForm.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\SubscribeForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\SubscribeForm.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\SubscribeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:29:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Pagination.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Pagination.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Pagination.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CourseResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\CourseResult.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\CourseResult.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\CourseResult.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\CourseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Course.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\Category.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:23.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AccountSecurityInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountSecurityInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AccountSecurityInfo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountSecurityInfo.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AccountSecurityInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:28:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AccountBasicInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountBasicInfoModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AccountBasicInfoModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountBasicInfoModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AccountBasicInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:27:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AccountAdressInfo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountAdressInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AccountAdressInfo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Models\\AccountAdressInfo.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AccountAdressInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:27:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Factories\\UserFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Factories\\UserFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\UserFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:27:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SubscribeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Factories\\SubscribeFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Factories\\SubscribeFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Factories\\SubscribeFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Factories\\SubscribeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:27:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:53.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SubscriberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\SubscriberEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\SubscriberEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\SubscriberEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\SubscriberEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ContactRequestEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\ContactRequestEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\ContactRequestEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\ContactRequestEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\ContactRequestEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:27.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddressEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\AddressEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\AddressEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Entities\\AddressEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\AddressEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:25:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\assignmentasp\\Silicon1\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:22:51.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
